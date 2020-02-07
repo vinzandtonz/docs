@@ -1,18 +1,17 @@
-Links
+# Links
 
-Tutorials : https://docs.google.com/spreadsheets/d/1k_0Uo1WA9xYFuLw-on-Wv2eZrFbf4fiRrZGLndAeUBU/edit#gid=0
+1. Tutorials : https://docs.google.com/spreadsheets/d/1k_0Uo1WA9xYFuLw-on-Wv2eZrFbf4fiRrZGLndAeUBU/edit#gid=0
 
-Kibana : https://vpc-ssdr-apps-tsz3hp7hkdoxnnj5dfk6qm5rae.us-east-1.es.amazonaws.com/_plugin/kibana/app/kibana#/discover?_g=()&_a=(columns:!(_source),index:'36cb2fb0-9cff-11e9-950f-05efdf48be10',interval:auto,query:(language:lucene,query:''),sort:!('@timestamp',desc))
+2. Kibana : https://vpc-ssdr-apps-tsz3hp7hkdoxnnj5dfk6qm5rae.us-east-1.es.amazonaws.com/_plugin/kibana/app/kibana#/discover?_g=()&_a=(columns:!(_source),index:'36cb2fb0-9cff-11e9-950f-05efdf48be10',interval:auto,query:(language:lucene,query:''),sort:!('@timestamp',desc))
 
-Consul: http://consul.kaptest.com/ui/us-east-1/services?filter=atom-web
+3. Consul: http://consul.kaptest.com/ui/us-east-1/services?filter=atom-web
 
-Elastic Search : https://www.elastic.co/guide/en/elasticsearch/reference/6.7/index.html
+4. Elastic Search : https://www.elastic.co/guide/en/elasticsearch/reference/6.7/index.html
 
-Deployment : 
-
-  1: Pipeline : https://github.com/KaplanTestPrep/Atom.Api.Pipeline
-  
-  2: Stacks: https://github.com/KaplanTestPrep/iform-stacks
-  
-  3: Gateway: https://github.com/KaplanTestPrep/Atom.Web.Gateway
+5. Deployment : 
+   * Pipeline : https://github.com/KaplanTestPrep/Atom.Api.Pipeline
+   * Stacks: https://github.com/KaplanTestPrep/iform-stacks
+   * Gateway: https://github.com/KaplanTestPrep/Atom.Web.Gateway
+ 
+6. Github formatting (cheatsheet) : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
   
