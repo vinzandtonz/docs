@@ -7,3 +7,12 @@ Kibana : https://vpc-ssdr-apps-tsz3hp7hkdoxnnj5dfk6qm5rae.us-east-1.es.amazonaws
 Consul: http://consul.kaptest.com/ui/us-east-1/services?filter=atom-web
 
 Elastic Search : https://www.elastic.co/guide/en/elasticsearch/reference/6.7/index.html
+
+Deployment : 
+
+  1: Pipeline : https://github.com/KaplanTestPrep/Atom.Api.Pipeline
+  
+  2: Stacks: https://github.com/KaplanTestPrep/iform-stacks
+  
+  3: Gateway: https://github.com/KaplanTestPrep/Atom.Web.Gateway
+  
