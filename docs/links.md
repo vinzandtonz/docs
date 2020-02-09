@@ -21,3 +21,6 @@
    * Email: maulik33@gmail.com
    * Pwd: Kaplan$123
   
+9. Udemy Shared Account - www.udemy.com
+    UserName: aubot@kaplan.com
+    PWD : kaplanau$123
