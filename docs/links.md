@@ -14,4 +14,10 @@
    * Gateway: https://github.com/KaplanTestPrep/Atom.Web.Gateway
  
 6. Github formatting (cheatsheet) : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+
+7. Certification Track - https://aws.amazon.com/certification/
+   
+8. https://acloud.guru/
+   * Email: maulik33@gmail.com
+   * Pwd: Kaplan$123
   
