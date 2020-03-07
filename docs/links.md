@@ -27,4 +27,10 @@
 
 10. AWS Certification Track - https://aws.amazon.com/certification/
 
-11. 
+11. ngx-quicklink: Prefetch visible links 
+
+12. github.com/guess.js : Predictive Prefecting 
+
+13. subsink : Unsubscribe multiple subscriptions
+
+14. JAMstack : Angular + Apis
